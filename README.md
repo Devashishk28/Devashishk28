@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Devashish kubade
+ Hi 👋, I'm Devashish kubade
 **A passionate Engineer
 
 Email Me 👉 ✉️ **devashishkubade2021@gmail.com** For Collaboration/Project or Anything Else. 😊😊
