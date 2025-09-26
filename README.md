@@ -1,15 +1,15 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Devashish kubade
+**A passionate Engineer
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **devashishkubade2021@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** I’m currently working on improving my Java programming skills by building small projects and solving coding challenges.
+- 🌱 **I’m currently learning:** I’m currently learning Java fundamentals, object-oriented programming, and backend development basics.
+- 👯 **I’m looking to collaborate on:** I’m looking to collaborate on beginner-friendly open-source projects in Java.
+- 🤔 **I’m looking for help with:** I’m looking for help with understanding advanced Java concepts like multithreading and design patterns.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** devashishkubade2021@gmail.com
+- 😄 **Pronouns:** Deva
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
