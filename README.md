@@ -15,11 +15,7 @@ Email Me 👉 ✉️ **devashishkubade2021@gmail.com** For Collaboration/Project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashish-kubade-22620332b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devashishkubade2021@gmail.com) 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,6 +27,11 @@ Email Me 👉 ✉️ **devashishkubade2021@gmail.com** For Collaboration/Project
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devashishk28&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
